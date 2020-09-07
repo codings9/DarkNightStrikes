@@ -1,5 +1,5 @@
 Works on Windows 10, and tested on Windows 10 x64 only.
-Calculates Strike Price based on @iamMarkMonroe strike technique.
+Calculates Strike Price based on @iamMarkMonroe's strike technique.
 
 References:
 TheComeUpSeries:
