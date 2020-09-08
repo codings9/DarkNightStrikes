@@ -1,3 +1,10 @@
+Usage, you can download the quick DarkNightStrikeVideo.mp4 video to see how it works.
+
+But basically, you download the .exe
+Click on it.
+Type you Ticker Symbol.
+And hit D for your Strike price, and that's it.
+
 Works on Windows 10, and tested on Windows 10 x64 only.
 Calculates Strike Price based on @iamMarkMonroe's strike technique.
 
