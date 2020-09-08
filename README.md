@@ -12,8 +12,8 @@ References:
 TheComeUpSeries:
 https://www.youtube.com/channel/UCPCNtdNULonhiUf2J_UHqKw?reload=9
 
-Munya:
-https://www.youtube.com/watch?v=9GrI_ZWDmn0
+MunYa:
+https://youtu.be/3uMVzEXGmHA
 # DarkNightStrikes
 DarkNightStrikes (Strike Price Calculator)
 
