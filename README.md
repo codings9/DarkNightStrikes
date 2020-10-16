@@ -8,6 +8,12 @@ And hit D for your Strike price, and that's it.
 Works on Windows 10, and tested on Windows 10 x64 only.
 Calculates Strike Price based on @iamMarkMonroe's strike technique.
 
+The Strike Price is based on Mark Monroe's "LEAP" trading style.
+And if one, want's to be safe or conservative they can round down
+the strike price to reduce risks.
+Or us this instead: https://github.com/codings9/BlackPantherSafeStrike
+which uses the 20% corretion versus the 10% correction.
+
 References:
 TheComeUpSeries:
 https://www.youtube.com/channel/UCPCNtdNULonhiUf2J_UHqKw?reload=9
